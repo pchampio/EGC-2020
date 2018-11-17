@@ -5,6 +5,17 @@ The goal of this challenge is to take stock at the evolution of the EGC communit
 years and try to predict the future. The principle is to apply techniques of knowledge discovery and
 data mining to explain the structure and evolution.
 
+## Dataset
+
+The data set consists of 1200 titles and abstracts from the articles published at the EGC conference from 2004 to 2018.
+
+Fields:
+  - years
+  - title
+  - abstract
+  - authors
+
+
 ## Pipeline
 
 - filter_extreme
@@ -20,7 +31,7 @@ data mining to explain the structure and evolution.
   </a>
 </p>
 
-Our system deducted a sharp increase in paper related to the social network analysis over the past years 20 (Label 1).  
+Our system deducted a sharp increase in articles related to the social network analysis over the past years 20 (Label 1).  
 On the other hand, rule-based algorithms seem to have declined drastically (Label 6).
 
 ## Evaluation (Hyper-parameters defined in the [Jupiter-notebook](./EGC.ipynb))
