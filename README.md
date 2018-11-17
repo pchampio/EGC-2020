@@ -7,8 +7,7 @@ data mining to explain the structure and evolution.
 
 ## Dataset
 
-The data set consists of 1200 titles and abstracts from the articles published at the EGC conference from 2004 to 2018.
-
+The data set consists of 1200 titles and abstracts from the articles published at the EGC conference between 2004 and 2018.  
 Fields:
   - years
   - title
