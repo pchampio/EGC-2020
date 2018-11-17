@@ -20,9 +20,11 @@ data mining to explain the structure and the evolution.
   </a>
 </p>
 
-Our system deducted a sharp increase in paper related to the social network analysis over the past years 20 (Label 1). On the other hand, rule-based algorithms seem to have declined drastically (Label 6).
+Our system deducted a sharp increase in paper related to the social network analysis over the past years 20 (Label 1).  
+On the other hand, rule-based algorithms seem to have declined drastically (Label 6).
 
-The pipeline used in this project dosn't seems to find a lot of structure for one cluster, sadly this cluster represent ~30% of our training datas.
+## Evaluation (K-Means - 10 clusters)
+The pipeline used in this project dosn't seems to find a lot of structure for one cluster, sadly this cluster represent ~30% of our training datas (Silhouette plot bellow).
 <details>
 <summary> The Silhouette plot for 10 clusters</summary>
 <p align="center">
@@ -32,3 +34,4 @@ The pipeline used in this project dosn't seems to find a lot of structure for on
 </p>
 </details>
 
+#### There is still room for improvement. 
