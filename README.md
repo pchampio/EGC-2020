@@ -34,7 +34,7 @@ Our system deducted a sharp increase in articles related to the social network a
 On the other hand, rule-based algorithms seem to have declined drastically (Label 6).
 
 ## Evaluation (Hyper-parameters defined in the [Jupiter-notebook](./EGC.ipynb))
-The pipeline used in this project doesn't seem to find a lot of structure for one cluster, sadly this cluster represents ~30% of our training data (Silhouette plot below).
+The pipeline used in this project doesn't seem to find a lot of structure for one cluster (Label 9), sadly this cluster represents ~30% of our training data (Silhouette plot below).
 <details>
 <summary>Silhouette plot for 10 clusters</summary>
 <p align="center">
