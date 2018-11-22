@@ -25,7 +25,7 @@ Fields:
 ## Cluster (Topics) evolution / Time
 
 <p align="center">
-  <a href="#">
+  <a href="https://raw.githubusercontent.com/Drakirus/EGC_2020/master/plots/distribution.png">
     <img alt="ScreenShot" src="https://raw.githubusercontent.com/Drakirus/EGC_2020/master/plots/distribution.png">
   </a>
 </p>
@@ -38,7 +38,7 @@ The pipeline used in this project doesn't seem to find a lot of structure for on
 <details>
 <summary>Silhouette plot for 10 clusters</summary>
 <p align="center">
-  <a href="#">
+  <a href="https://raw.githubusercontent.com/Drakirus/EGC_2020/master/plots/silhouette.png">
     <img alt="ScreenShot" src="https://raw.githubusercontent.com/Drakirus/EGC_2020/master/plots/silhouette.png">
   </a>
 </p>
